@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew 👋
+### Hi there, I'm Andrew Juang 👋
 
 <!--
 **Andrew1J/Andrew1J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
